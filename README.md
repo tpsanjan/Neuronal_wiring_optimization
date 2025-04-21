@@ -2,7 +2,7 @@
 Theoretical project to decipher design principles of cognitive networks in _C. elegans_ done as part of graduate level course (BT 54xx: Computational Neuroscience) project during undergrduates studies at IIT-Madras in collaboartion with Shantanu Gupta. You may find our report thought provoking. Please feel free to reach out to explore the topic further!
 
 ============================================================================
-						NEURONAL WIRING OPTIMISATION
+			NEURONAL WIRING OPTIMISATION
 ============================================================================
 
 src folder contains code.
